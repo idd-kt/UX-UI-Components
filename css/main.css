@@ -446,3 +446,10 @@ section{
   border-radius: 30%;
   padding: 12px;
 }
+.boxy{
+  transition-duration: 1s;
+  transition-timing-function: ease-in;
+  background: rgb(105, 223, 223);
+  border-radius: 30%;
+  padding: 12px;
+}
